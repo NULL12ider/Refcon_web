@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+09:16:45	7543/7543	---M-Z	200	added ('OK')	text/html	date:Thu,%2008%20May%202025%2002:31:39%20GMT	https://www.refconservices.com/	./site/www.refconservices.com/index.html	(from )
+09:16:45	0/0	---M--	301	error ('Moved%20Permanently')	text/html	date:Fri,%2001%20May%202026%2013:16:45%20GMT	https://www.refconservices.com/robots.txt		(from )

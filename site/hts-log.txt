@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 01 May 2026 09:16:44 at https://www.refconservices.com/ +*.refconservices.com/* -*
+("C:\Program Files\WinHTTrack\httrack.exe" https://www.refconservices.com/ -O .\site +*.refconservices.com/* -* -d )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:16:45	Warning: 	Moved Permanently for https://www.refconservices.com/robots.txt
+09:16:45	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.refconservices.com/robots.txt and https://refconservices.com/robots.txt
+09:16:45	Warning: 	Warning moved treated for https://www.refconservices.com/robots.txt (real one is https://refconservices.com/robots.txt)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 seconds : 2 links scanned, 1 files written (7543 bytes overall) [3478 bytes received at 3478 bytes/sec], 7543 bytes transferred using HTTP compression in 1 files, ratio 28%
+(No errors, 3 warnings, 0 messages)

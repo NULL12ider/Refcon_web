@@ -1,0 +1,8 @@
+https://www.refconservices.com/ -O ".\\site" +*.refconservices.com/* -* -d
+File generated automatically on Fri, 01 May 2026 09:16:44, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
